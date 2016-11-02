@@ -18,6 +18,7 @@ public class TestGit {
         // TODO code application logic here
         System.err.println("ccccc");
         System.err.println("xxxxx");
+        System.err.println("xxxxxxxx");
     }
     
 }
