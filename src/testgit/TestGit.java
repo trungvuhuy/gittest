@@ -19,6 +19,7 @@ public class TestGit {
         System.err.println("ccccc");
         System.err.println("xxxxx");
         System.err.println("xxxxxxxx");
+        System.out.print("aaaaaaaaaaaaaaaaaaaa");
     }
     
 }
